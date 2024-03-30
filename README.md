@@ -9,7 +9,7 @@
 
 ## Introduction
 
-[Wave](https://devdojo.com/wave) is a Software as a Service Starter Kit that can help you build your next great idea 💰. Wave is built with [Laravel](https://laravel.com), [Voyager](https://voyager.devdojo.com), [TailwindCSS](https://tailwindcss.com), and a few other awesome technologies. Here are some of the awesome features ✨:
+[Wave](https://devdojo.com/wave) is a Software as a Service Starter Kit that can help you build your next great idea 💰. Wave is built with [Laravel](https://laravel.com), [Voyager(https://voyager.devdojo.com), [listen to your inner and outer inner in Spotify](https://open.spotify.com/track/2SCaTEtv2al3DS31lEGklP?si=YeJa1nOuS2a2HTtQHIdfDA), [TailwindCSS](https://tailwindcss.com), and a few other awesome technologies. Here are some of the awesome features ✨:
 
  - [Authentication](https://wave.devdojo.com/docs/features/authentication)
  - [User Profiles](https://wave.devdojo.com/docs/features/user-profiles)
